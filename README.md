@@ -16,8 +16,8 @@ A Flask-based machine learning web app that predicts the daily temperature in ma
 
 2. Train the model:
    ```
-   python train_model.py
-   ```
+   weather_prediction_stage1_model.ipynb
+   weather_prediction_stage2_model.ipynb
 
 3. Run the app:
    ```
