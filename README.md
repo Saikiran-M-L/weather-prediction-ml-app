@@ -1,6 +1,6 @@
 # 🌦️ Weather Prediction for Major German Cities  
 
-This project builds a **machine learning pipeline** to predict weather conditions (temperature, humidity, precipitation, windspeed, feelslike, pressure, description, and icon) for five major German cities:  
+This is a full-stack machine learning project that predicts weather conditions (temperature, humidity, windspeed, etc.) for a specified city and date. It uses a two-stage ML pipeline and provides a web interface for interaction.
 
 - 🏙️ Hamburg  
 - 🏙️ Berlin  
