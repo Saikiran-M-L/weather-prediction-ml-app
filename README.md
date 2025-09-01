@@ -187,3 +187,13 @@ A Flask-based machine learning web app that predicts the daily temperature in ma
    ```
 
 4. Access at `http://localhost:4500`
+
+---
+
+## ❗ Notes
+
+- Use Git LFS to manage .pkl files over 100MB.
+- CORS enabled globally via flask-cors for API access from frontend.
+- Supports Vue.js frontend served from Flask or separately deployed.
+
+---
